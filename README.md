@@ -1,0 +1,1 @@
+This folder contains my pactice and notes for my personal programming in C.
